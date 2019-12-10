@@ -9,6 +9,7 @@ gem 'sqlite3', '~>1.3.6'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'byebug', '~> 11.0', '>= 11.0.1'
 
 group :test do
   gem 'rspec'
